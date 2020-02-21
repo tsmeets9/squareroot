@@ -9,8 +9,7 @@ public class SquareRoot {
 	 * 		| result * result <= x
 	 * @post The result is the greatest number whose square is not greater than the given number.
 	 * 			| x < (result+ 1) * (result +1)
-	 * @param x
-	 * @return
+	 * This is made in class. 
 	 */
 	public int SquareRoot(int x) {
 		int result = 0;
